@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ssl-root-cas": "latest"
+  }
+}
